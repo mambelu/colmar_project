@@ -1,0 +1,53 @@
+*{
+    font-family: 'ROBOTO', sans-serif;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+}
+.header{
+    display:inline-flex;
+    margin-right: 12px;
+}
+#colmar-academy{
+    font-weight: bolder;
+}
+.nav-links span{
+    display:inline-flex;
+    margin-right:12px;
+}
+.banner-container{
+    display:inline-flex;
+    background-color: lightgray;
+    width:100%;
+    height:auto;
+}
+.banner-text-container{
+    width:40%;
+}
+#image-container{
+    width:60%;
+    margin:32px 24px;
+    height:auto;
+
+}
+#banner-image{
+    width:100%;
+    height:auto;
+}
+#banner-text{
+    color:rgb(67,66,66);
+    align-content: center;
+    margin:32px 24px;
+}
+#banner-title-p{
+    padding:24px 0;
+}
+#start-button{
+    width:60%;
+    display:block;
+    margin:12px auto;
+    padding: 8px  8px;
+    background-color:rgb(99, 99, 99);
+    color:white;
+}
